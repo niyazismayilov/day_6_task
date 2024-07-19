@@ -1,16 +1,21 @@
-# day_3_tapsiriq
+# Day 6 task
 
-Day 3 duzgun implementasiya
+Day 6 üçün task.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Tapşırıqlar :
 
-A few resources to get you started if this is your first Flutter project:
+Bu nümünələri switch operatoru ilə yazın
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+1. Bir a dəyişəni götürün,Button klik zamanı bu dəyişən 5-dən kiçikdirsə Ədəd 5-dən
+kiçikdir yazısı,5-dən böyükdürsə Ədəd 5-dən böyükdür yazısı ekrana verilsin.
+2. Araşdırma : İf operatorunda həftənin günlərini ekrana çapa verəcək program
+yazın.Məsələn istifadəçi 1,2,3 daxil etdikdə uyğun olaraq həftənin gününü ekrana
+çapa versin.
+3. **(Çətin task) İstifadəçi üçün bir input yerləşdirin.İstifadəçi rəqəm daxil Edib
+Yoxla buttona kliklədikdə həmin rəqəmin tək və ya cüt olduğunu təyin Edib ekrana
+Tək və ya cütdür yazısını verin.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Bu reponu download etməzdən əvvəl mütləq özünüz cəhd edin 
+sonra burdakı düzgün cavablara baxın.
